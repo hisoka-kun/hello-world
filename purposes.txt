@@ -1,0 +1,4 @@
+Objectives of that project :
+Discover and master the simple commands of git.
+
+Use github to understand the exchange applications of git.
